@@ -1,0 +1,3 @@
+print ${name}-like
+doing ${mode}
+asking ${what_doesnt_exist}
